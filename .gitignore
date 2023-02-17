@@ -55,7 +55,7 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
+https://github.com/marfhas/ziga2.git# Django stuff:
 *.log
 local_settings.py
 db.sqlite3
